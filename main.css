@@ -1,0 +1,40 @@
+header {
+    background-image: url("header.jpg");
+    background-size: 100%;
+    color: #9762dc;
+    padding: 3px;
+    font-size: 65px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: center;
+}
+
+body {
+    background-color: #9762dc;
+}
+
+h2{ text-align:center ;
+    font-size: 60px;
+}
+
+p {
+    color: #044e01;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+    font-size: 45px;
+}
+
+img {
+    height: 700px;
+    width: 500px;
+}
+
+.rhino {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
